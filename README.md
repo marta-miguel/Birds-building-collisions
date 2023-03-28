@@ -3,4 +3,5 @@ Project that aimed at developing hypothesis testing using data from: "Nocturnal 
 
 # Files
 bird_collisions contains web scraping, data cleaning and exploration
+
 birds_collisions_testing contains the hypothesis testing on the cleaned data
