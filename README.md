@@ -3,6 +3,9 @@
 # Birds-building-collisions
 Project that aimed at developing hypothesis testing using data from: "Nocturnal flight-calling behaviour predicts vulnerability to artificial light in migratory birds" by Winger BM, Weeks BC, Farnsworth A, Jones AW, Hennen M, Willard DE (available at data.world on https://data.world/animals/bird-building-collisions)
 
+![image](https://user-images.githubusercontent.com/117198977/228269220-460d2dcc-f3a2-44d5-af10-ce26d64f847b.png)
+
+
 # Files
 📊 bird_collisions: contains web scraping, data cleaning and exploration
 
